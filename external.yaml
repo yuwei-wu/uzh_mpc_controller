@@ -1,0 +1,31 @@
+repositories:
+
+  uzh_mpc_controller/rpg_mpc:
+    type: git
+    url: git@github.com:uzh-rpg/rpg_mpc.git
+    version: master
+
+  uzh_mpc_controller/rpg_quadrotor_control:
+    type: git
+    url: git@github.com:uzh-rpg/rpg_quadrotor_control.git
+    version: master
+
+  uzh_mpc_controller/eigen_catkin:
+    type: git
+    url: git@github.com:ethz-asl/eigen_catkin.git
+    version: master
+
+  uzh_mpc_controller/mav_comm:
+    type: git
+    url: git@github.com:ethz-asl/mav_comm.git
+    version: master
+
+  uzh_mpc_controller/rotors_simulator:
+    type: git
+    url: git@github.com:ethz-asl/rotors_simulator.git
+    version: master
+
+  uzh_mpc_controller/rpg_quadrotor_common:
+    type: git
+    url: git@github.com:uzh-rpg/rpg_quadrotor_common.git
+    version: master
